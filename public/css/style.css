@@ -1,0 +1,23 @@
+p{
+
+color:red;
+
+}
+
+.posts_css{
+
+width:100px;
+
+margin: 5em;
+
+border: solid 3px #000000;
+
+background-color: #ccc;
+
+}
+
+h1{
+  font-size:100%;
+  color: #ff0000;
+  background-color: #ffffff;
+}
